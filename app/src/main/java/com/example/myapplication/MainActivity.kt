@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
     // Altracao comentario 1
     // A beatriz fez esta alteração 
 }
+
