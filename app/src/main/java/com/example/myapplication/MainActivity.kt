@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
     // Projeto de teste
     // Altracao comentario 1
+    // A beatriz fez esta alteração 
 }
