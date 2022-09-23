@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
     // Projeto de teste
     // Altracao comentario 1
+    // Funcionalidade 1 branch
 }
