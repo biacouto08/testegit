@@ -9,5 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     // Projeto de teste
-
+    // Altracao comentario 1
 }
